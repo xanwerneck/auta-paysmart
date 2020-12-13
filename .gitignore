@@ -1,14 +1,14 @@
 # ignore on pwa 
 # dependencies
-pwa/node_modules
+pwa/node_modules/
 .pnp
 .pnp.js
 
 # testing
-pwa/coverage
+pwa/coverage/
 
 # production
-pwa/build
+pwa/build/
 
 # misc
 .DS_Store
@@ -22,4 +22,4 @@ yarn-debug.log*
 yarn-error.log*
 
 #ignore on api
-api/auta-paysmart
+api/auta-paysmart/
